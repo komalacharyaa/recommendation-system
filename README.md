@@ -77,7 +77,7 @@ Suppose that user1 and user2 have three friends in common: f1, f2, and f3. The s
 
 Here we shall analyse whether the recommendation algorithm matters. We are going to create a graph from the Romeo and Juliet story and try out the different algorithms and see if the results differ.
 
-![Romeo and Juliet]()
+![Romeo and Juliet](https://github.com/komalacharyaa/recommendation-system/blob/master/romeo-juliet.png)
 
 **Note:** Look at the **main.py** for this implementation
 
