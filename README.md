@@ -1,6 +1,10 @@
 # Recommendation System
 
+[![Build Status](https://travis-ci.org/KengoWada/recommendation_system.svg?branch=master)](https://travis-ci.org/KengoWada/recommendation_system) [![Coverage Status](https://coveralls.io/repos/github/KengoWada/recommendation_system/badge.svg?branch=master)](https://coveralls.io/github/KengoWada/recommendation_system?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/c786cd4b6b90ee0c88be/maintainability)](https://codeclimate.com/github/KengoWada/recommendation_system/maintainability)
+
 A lot of apps we use today recommend various things to us such as Netflix recommending movies, Facebook recommending friends and many others. In this project I look at potential ways I could do this myself.
+
+This project is inspired by the [University of Washington Computer Science Assignment](https://courses.cs.washington.edu/courses/cse140/13wi/homework/hw4/homework4.html)
 
 ## Getting Started
 
@@ -77,7 +81,7 @@ Suppose that user1 and user2 have three friends in common: f1, f2, and f3. The s
 
 Here we shall analyse whether the recommendation algorithm matters. We are going to create a graph from the Romeo and Juliet story and try out the different algorithms and see if the results differ.
 
-![Romeo and Juliet](https://github.com/komalacharyaa/recommendation-system/blob/master/romeo-juliet.png)
+![Romeo and Juliet](https://courses.cs.washington.edu/courses/cse140/13wi/homework/hw4/romeo-and-juliet-undirected.png)
 
 **Note:** Look at the **main.py** for this implementation
 
